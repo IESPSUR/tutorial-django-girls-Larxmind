@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/web":{"guestpath":"/home/vagrant/web","hostpath":"/home/alumnado/Documentos/EntornoServidor/djangogirl/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/alumnado/Documentos/EntornoServidor/djangogirl","disabled":false,"__vagrantfile":true}}}
